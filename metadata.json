@@ -6,6 +6,6 @@
     "43"
   ],
   "version": 7,
-  "url": "https://extensions.gnome.org/extension/8776/quick-launch/",
+  "url": "https://github.com/trainingdummy/quicklaunch",
   "settings-schema": "org.gnome.shell.extensions.quicklaunch"
 }
