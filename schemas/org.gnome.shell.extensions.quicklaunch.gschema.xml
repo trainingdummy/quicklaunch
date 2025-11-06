@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.quicklaunch" path="/org/gnome/shell/extensions/quicklaunch/">
+    <key name="app-list" type="as">
+      <default>[
+        'gnome-extensions prefs quicklaunch@solotay|input-gaming-symbolic|Quick Launch',
+        'org.gnome.Terminal.desktop|utilities-terminal|Terminal'
+      ]</default>
+      <summary>List of apps to show in Quick Settings</summary>
+      <description>
+        Each entry should be in format: "app-id.desktop|icon-name|Display Label" for apps
+        or "terminal-command|icon-name|Display Label" for terminal commands
+      </description>
+    </key>
+  </schema>
+</schemalist>
