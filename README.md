@@ -76,7 +76,3 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 ## License
 
 This extension is released under the GPL-3.0 license.
-
-## Author
-
-Created by solotay
