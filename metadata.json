@@ -1,0 +1,11 @@
+{
+  "name": "Quick Launch",
+  "description": "Add easily accessible buttons for your favorite apps and commands to the Quick Settings menu.",
+  "uuid": "quicklaunch@solotay",
+  "shell-version": [
+    "43"
+  ],
+  "version": 7,
+  "url": "https://extensions.gnome.org/extension/8776/quick-launch/",
+  "settings-schema": "org.gnome.shell.extensions.quicklaunch"
+}
