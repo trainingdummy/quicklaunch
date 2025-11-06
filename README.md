@@ -66,7 +66,7 @@ gnome-screenshot -a|applets-screenshooter|Screenshot
 
 ## Compatibility
 
-- GNOME Shell 42, 43, 44, 45, 46
+- GNOME Shell 43 and 44
 - Tested on Zorin OS 17.3 Core (GNOME 43.9)
 
 ## Contributing
