@@ -1,7 +1,7 @@
 {
   "name": "Quick Launch",
   "description": "Add easily accessible buttons for your favorite apps and commands to the Quick Settings menu.",
-  "uuid": "quicklaunch@solotay",
+  "uuid": "quicklaunch@trainingdummy",
   "shell-version": [
     "43"
   ],
