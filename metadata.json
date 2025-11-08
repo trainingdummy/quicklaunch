@@ -1,9 +1,10 @@
 {
   "name": "Quick Launch",
   "description": "Add easily accessible buttons for your favorite apps and commands to the Quick Settings menu.",
-  "uuid": "quicklaunch@trainingdummy",
+  "uuid": "quicklaunch@td",
   "shell-version": [
-    "43"
+    "43",
+    "44"
   ],
   "version": 8,
   "url": "https://github.com/trainingdummy/quicklaunch",
