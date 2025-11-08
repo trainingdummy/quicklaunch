@@ -14,7 +14,7 @@ Add easily accessible buttons for your favorite apps and commands directly to th
 ## Installation
 
 ### From extensions.gnome.org (Recommended)
-1. Visit the extension page at https://extensions.gnome.org/extension/8785/quick-launch/
+1. Visit the extension page at https://extensions.gnome.org/extension/8782/quick-launch/
 2. Toggle the switch to install
 3. Configure your apps in the extension preferences
 
