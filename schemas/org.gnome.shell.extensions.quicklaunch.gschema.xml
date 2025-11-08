@@ -3,7 +3,7 @@
   <schema id="org.gnome.shell.extensions.quicklaunch" path="/org/gnome/shell/extensions/quicklaunch/">
     <key name="app-list" type="as">
       <default>[
-        'gnome-extensions prefs quicklaunch@trainingdummy|input-gaming-symbolic|Quick Launch',
+        'gnome-extensions prefs quicklaunch@td|input-gaming-symbolic|Quick Launch',
         'org.gnome.Terminal.desktop|utilities-terminal|Terminal'
       ]</default>
       <summary>List of apps to show in Quick Settings</summary>
