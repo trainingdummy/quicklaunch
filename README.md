@@ -14,27 +14,27 @@ Add easily accessible buttons for your favorite apps and commands directly to th
 ## Installation
 
 ### From extensions.gnome.org (Recommended)
-1. Visit the extension page at https://extensions.gnome.org/extension/8776/quick-launch/
+1. Visit the extension page at https://extensions.gnome.org/extension/8785/quick-launch/
 2. Toggle the switch to install
 3. Configure your apps in the extension preferences
 
 ### Manual Installation
 1. Download or clone this repository
-2. Copy the extension folder to `~/.local/share/gnome-shell/extensions/quicklaunch@trainingdummy/`
+2. Copy the extension folder to `~/.local/share/gnome-shell/extensions/quicklaunch@td/`
 3. Compile the settings schema:
    ```bash
-   cd ~/.local/share/gnome-shell/extensions/quicklaunch@trainingdummy
+   cd ~/.local/share/gnome-shell/extensions/quicklaunch@td
    glib-compile-schemas schemas/
    ```
 4. Restart GNOME Shell (Alt+F2, type 'r', press Enter on X11, or log out/in on Wayland)
 5. Enable the extension:
    ```bash
-   gnome-extensions enable quicklaunch@trainingdummy
+   gnome-extensions enable quicklaunch@td
    ```
 
 ## Usage
 
-1. Open the extension preferences: `gnome-extensions prefs quicklaunch@trainingdummy`
+1. Open the extension preferences: `gnome-extensions prefs quicklaunch@td`
 2. Click "Add App" to open the app picker
 3. Select an app from the list of installed applications
 4. Optionally customize the icon by clicking the icon button
@@ -56,7 +56,7 @@ terminal-command|icon-name|Display Label
 
 Examples:
 ```
-gnome-extensions prefs quicklaunch@trainingdummy|input-gaming-symbolic|Quick Launch
+gnome-extensions prefs quicklaunch@td|input-gaming-symbolic|Quick Launch
 org.gnome.Terminal.desktop|utilities-terminal|Terminal
 firefox.desktop|firefox|Firefox
 notify-send "Hello World"|dialog-information|Test Notification
